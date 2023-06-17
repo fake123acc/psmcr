@@ -6,6 +6,7 @@
 #define PSMC_H_LH3
 
 #include <stdint.h>
+#include <stdlib.h>
 //#include <sys/types.h>
 //#include <stdio.h>
 //#include <assert.h>
